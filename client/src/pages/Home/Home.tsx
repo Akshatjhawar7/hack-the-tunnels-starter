@@ -33,6 +33,7 @@ function Home() {
               />
             </Link>
           ))}
+          <p> Hello World</p>
         </div>
       </div>
     </Page>
